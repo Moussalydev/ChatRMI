@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: rmi.Serveur
+Class-Path: mysql-connector-java-5.1.6-bin.jar
+
